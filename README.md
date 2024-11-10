@@ -65,7 +65,7 @@ This pipeline takes a PDF file as input, processes it to extract relevant inform
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/AI-Document-Retrieval-QA.git
+    git clone https://github.com/chdl17/AI-Document-Retrieval-QA.git
     cd AI-Document-Retrieval-QA
     ```
 
@@ -116,6 +116,4 @@ This pipeline takes a PDF file as input, processes it to extract relevant inform
 ├── rag_pipeline.py             # Pipeline logic and functions
 ├── requirements.txt            # Python dependencies
 ├── .env                        # Environment variables (MODEL_NAME, HUGGINGFACE token)
-├── utils/                      # Helper functions (if any)
-│   └── ...
 └── README.md                   # Project documentation
