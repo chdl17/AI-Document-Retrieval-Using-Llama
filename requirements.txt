@@ -1,0 +1,14 @@
+python-dotenv
+langchain-huggingface
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
+langchain
+pypdf
+chromadb
+streamlit
+langchain
+torch
+langchain_community
+sentencepiece
